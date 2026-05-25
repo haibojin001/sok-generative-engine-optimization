@@ -206,8 +206,6 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 - [2024-02-19] What Evidence Do Language Models Find Convincing? [[Paper](https://arxiv.org/html/2402.11782v1)]
 
-- [2024-06-28] When Search Meets LLMs: A Survey [[Paper](https://arxiv.org/abs/2407.00128)]
-
 ---
 
 ## Open-Source Projects
