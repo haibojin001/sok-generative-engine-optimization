@@ -20,7 +20,6 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [E-Commerce, Product Visibility, and Agentic Commerce](#e-commerce-product-visibility-and-agentic-commerce)
 - [Retrieval, Citation, and Knowledge Conflict](#retrieval-citation-and-knowledge-conflict)
 - [Open-Source Projects](#open-source-projects)
-- [Tools and Platforms](#tools-and-platforms)
 - [Surveys](#surveys)
 - [Industry Reading and Events](#industry-reading-and-events)
 
