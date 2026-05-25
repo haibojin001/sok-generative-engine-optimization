@@ -4,8 +4,6 @@ A research-oriented collection for **Generative Engine Optimization (GEO)**, AI 
 
 GEO studies how content, evidence, products, webpages, and agents become visible, cited, or absorbed by generative engines such as ChatGPT, Perplexity, Gemini, Google AI Overviews, and other LLM-based search systems.
 
-> Related terms: AI Search Optimization (AISO), Answer Engine Optimization (AEO), LLM Search Optimization, LLMO, AI SEO, Generative Search Optimization.
-
 ---
 
 ## Contents
