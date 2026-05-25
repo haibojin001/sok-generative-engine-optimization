@@ -20,6 +20,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [E-Commerce, Product Visibility, and Agentic Commerce](#e-commerce-product-visibility-and-agentic-commerce)
 - [Retrieval, Citation, and Knowledge Conflict](#retrieval-citation-and-knowledge-conflict)
 - [Open-Source Projects](#open-source-projects)
+- [Tools and Platforms](#tools-and-platforms)
 - [Surveys](#surveys)
 - [Industry Reading and Events](#industry-reading-and-events)
 
@@ -225,6 +226,12 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - When Attention Becomes Exposure in Generative Search [[Code](https://github.com/shayanalipour/attention_becomes_exposure)]
 
 - GEO/AEO Tracker [[Code](https://github.com/danishashko/geo-aeo-tracker)]
+
+---
+
+## Tools and Platforms
+
+- [TopCited](https://topcited.ai/) - GEO platform for measuring and improving product visibility in AI-powered recommendations, based on the CORE methodology.
 
 ---
 
