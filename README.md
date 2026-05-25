@@ -2,6 +2,8 @@
 
 A research-oriented collection for **Generative Engine Optimization (GEO)**, AI search optimization, generative search, citation visibility, retrieval manipulation, and agentic web/search systems.
 
+![Generative Engine Optimization overview](GE.png)
+
 GEO studies how content, evidence, products, webpages, and agents become visible, cited, or absorbed by generative engines such as ChatGPT, Perplexity, Gemini, Google AI Overviews, and other LLM-based search systems.
 
 ---
