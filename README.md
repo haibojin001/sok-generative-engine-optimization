@@ -230,7 +230,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 - [2026-04-30] How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews [[Paper](https://arxiv.org/abs/2604.27790)]
 
-- [2024-06-28] When Search Meets LLMs: A Survey [[Paper](https://arxiv.org/abs/2407.00128)]
+- [2024-06-28] When Search Engine Services meet Large Language Models: Visions and Challenges [[Paper](https://arxiv.org/abs/2407.00128)]
 
 - [2026-01-23] Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper](https://arxiv.org/abs/2601.16858)]
 
