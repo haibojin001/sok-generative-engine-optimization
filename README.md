@@ -21,8 +21,6 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [Retrieval, Citation, and Knowledge Conflict](#retrieval-citation-and-knowledge-conflict)
 - [Open-Source Projects](#open-source-projects)
 - [Related Surveys and Search Papers](#related-surveys-and-search-papers)
-- [Suggested Repository Structure](#suggested-repository-structure)
-- [Contributing](#contributing)
 
 ---
 
@@ -130,6 +128,8 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 - [2026-02-12] SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization [[Paper](https://arxiv.org/abs/2602.12187)]
 
+- [2026-02-03] Controlling Output Rankings in Generative Engines for LLM-based Search [[Paper](https://arxiv.org/abs/2602.03608)]
+
 - [2025-11-25] E-GEO: A Testbed for Generative Engine Optimization in E-Commerce [[Paper](https://arxiv.org/abs/2511.20867)]
 
 - [2025-06-06] C-SEO Bench: Does Conversational SEO Work? [[Paper](https://arxiv.org/abs/2506.11097)] [[Code](https://github.com/parameterlab/c-seo-bench)] [[Dataset](https://huggingface.co/datasets/parameterlab/c-seo-bench)]
@@ -145,6 +145,8 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [2026-04-21] Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility [[Paper](https://arxiv.org/abs/2604.19113)]
 
 - [2026-03-10] Diagnosing and Repairing Citation Failures in Generative Engine Optimization [[Paper](https://arxiv.org/abs/2603.09296)]
+
+- [2026-02-03] Controlling Output Rankings in Generative Engines for LLM-based Search [[Paper](https://arxiv.org/abs/2602.03608)]
 
 - [2025-05-18] PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation [[Paper](https://arxiv.org/abs/2505.12574)]
 
@@ -210,6 +212,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ## Open-Source Projects
 
+- CORE [[Code](https://github.com/haibojin001/AmazonCOREBench)]
 - AgenticGEO [[Code](https://github.com/AIcling/agentic_geo)]
 
 - MAGEO [[Code](https://github.com/Wu-beining/MAGEO)]
