@@ -272,7 +272,7 @@ These sources track practitioner discussion and product developments around AI s
 
 ### Tools and Platforms
 
-- [TopCited](https://topcited.ai/) - GEO platform for measuring and improving product visibility in AI-powered recommendations, based on the CORE methodology.
+- [TopCited](https://topcited.ai/) - GEO platform for measuring and improving product visibility in AI-powered recommendations.
 
 ---
 
