@@ -20,7 +20,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [E-Commerce, Product Visibility, and Agentic Commerce](#e-commerce-product-visibility-and-agentic-commerce)
 - [Retrieval, Citation, and Knowledge Conflict](#retrieval-citation-and-knowledge-conflict)
 - [Open-Source Projects](#open-source-projects)
-- [Related Surveys and Search Papers](#related-surveys-and-search-papers)
+- [Surveys](#related-surveys-and-search-papers)
 
 ---
 
@@ -229,7 +229,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ---
 
-## Related Surveys and Search Papers
+## Surveys
 
 - [2026-04-30] How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews [[Paper](https://arxiv.org/abs/2604.27790)]
 
