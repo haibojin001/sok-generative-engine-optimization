@@ -1,4 +1,4 @@
-# Sok Generative Engine Optimization (GEO)
+# SoK: Generative Engine Optimization (GEO)
 
 A research-oriented collection for **Generative Engine Optimization (GEO)**, AI search optimization, generative search, citation visibility, retrieval manipulation, and agentic web/search systems.
 
