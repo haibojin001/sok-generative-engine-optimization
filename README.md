@@ -229,11 +229,7 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ---
 
-## Tools and Platforms
 
-- [TopCited](https://topcited.ai/) - GEO platform for measuring and improving product visibility in AI-powered recommendations, based on the CORE methodology.
-
----
 
 ## Surveys
 
@@ -272,6 +268,11 @@ These sources track practitioner discussion and product developments around AI s
 - [GEO Conference](https://www.geo-conference.com/) - Dedicated GEO conference series; the next listed event is in Washington, D.C., on June 18, 2026.
 
 - [brightonSEO](https://brightonseo.com/) - Search marketing conference series with 2026 events listed for San Diego and Brighton.
+
+
+### Tools and Platforms
+
+- [TopCited](https://topcited.ai/) - GEO platform for measuring and improving product visibility in AI-powered recommendations, based on the CORE methodology.
 
 ---
 
