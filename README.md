@@ -239,3 +239,15 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ---
 
+## Contributing
+
+Pull requests are welcome.
+
+When adding a new paper, please use the following format:
+
+```md
+- [YYYY-MM-DD] Paper Title [[Paper](link)] [[Code](link)] [[Dataset](link)]
+```
+
+Please prefer official paper pages, arXiv pages, conference pages, official code repositories, and official datasets.
+
