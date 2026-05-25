@@ -20,7 +20,8 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [E-Commerce, Product Visibility, and Agentic Commerce](#e-commerce-product-visibility-and-agentic-commerce)
 - [Retrieval, Citation, and Knowledge Conflict](#retrieval-citation-and-knowledge-conflict)
 - [Open-Source Projects](#open-source-projects)
-- [Surveys](#related-surveys-and-search-papers)
+- [Surveys](#surveys)
+- [Industry Reading and Events](#industry-reading-and-events)
 
 ---
 
@@ -234,6 +235,36 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [2024-06-28] When Search Engine Services meet Large Language Models: Visions and Challenges [[Paper](https://arxiv.org/abs/2407.00128)]
 
 - [2026-01-23] Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation [[Paper](https://arxiv.org/abs/2601.16858)]
+
+---
+
+## Industry Reading and Events
+
+These sources track practitioner discussion and product developments around AI search. They are useful for monitoring the field, but are not substitutes for empirical evaluation or peer-reviewed evidence.
+
+### Publications and Newsletters
+
+- [Search Engine Land: AI SEO](https://searchengineland.com/library) - Trade reporting and practitioner articles on AEO, GEO, AI search, and related platform changes.
+
+- [Ahrefs Blog: AI Search](https://ahrefs.com/blog/category/ai-search/) - Tutorials, case studies, and data-oriented posts on search visibility and AI search.
+
+- [Semrush Blog](https://www.semrush.com/blog/) - Industry news and research covering AI search alongside traditional SEO.
+
+- [Profound Blog](https://www.tryprofound.com/blog) - Articles focused on AI search optimization and enterprise visibility measurement.
+
+- [OtterlyAI Blog](https://otterly.ai/blog/) - Monitoring-oriented writing on AI search visibility, citations, and platform comparisons.
+
+- [Rankability Blog](https://www.rankability.com/blog/) - Practitioner content on GEO, AI search, and content strategy.
+
+- [The AI SEO Brief](https://www.linkedin.com/newsletters/the-ai-seo-brief-7404636256862789632/) - A biweekly LinkedIn newsletter on Google and AI search visibility.
+
+### Podcasts and Events
+
+- [Search Off the Record](https://developers.google.com/search/podcasts/search-off-the-record) - Google Search Central podcast on search launches, systems, and SEO topics.
+
+- [GEO Conference](https://www.geo-conference.com/) - Dedicated GEO conference series; the next listed event is in Washington, D.C., on June 18, 2026.
+
+- [brightonSEO](https://brightonseo.com/) - Search marketing conference series with 2026 events listed for San Diego and Brighton.
 
 ---
 
