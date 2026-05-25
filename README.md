@@ -10,10 +10,10 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ## Contents
 
-- [Core GEO Papers](#core-geo-papers)
 - [2026 Papers](#2026-papers)
 - [2025 Papers](#2025-papers)
 - [2024 Papers](#2024-papers)
+- [2023 Papers](#2023-papers)
 - [Benchmarks, Datasets, and Evaluation](#benchmarks-datasets-and-evaluation)
 - [Adversarial GEO, Manipulation, and Security](#adversarial-geo-manipulation-and-security)
 - [Agentic GEO and Multi-Agent Search](#agentic-geo-and-multi-agent-search)
@@ -26,25 +26,9 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 
 ---
 
-## Core GEO Papers
-
-- [2023-11-16] GEO: Generative Engine Optimization [[Paper](https://arxiv.org/abs/2311.09735)]
-
-- [2025-09-10] Generative Engine Optimization: How to Dominate AI Search [[Paper](https://arxiv.org/abs/2509.08919)]
-
-- [2025-10-13] What Generative Search Engines Like and How to Optimize Web Content Cooperatively [[Paper](https://arxiv.org/abs/2510.11438)]
-
-- [2026-03-10] Diagnosing and Repairing Citation Failures in Generative Engine Optimization [[Paper](https://arxiv.org/abs/2603.09296)]
-
-- [2026-03-31] Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior [[Paper](https://arxiv.org/abs/2603.29979)]
-
-- [2026-04-21] Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility [[Paper](https://arxiv.org/abs/2604.19113)]
-
-- [2026-04-28] From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms [[Paper](https://arxiv.org/abs/2604.25707)]
-
----
-
 ## 2026 Papers
+
+- [2026-05-21] SCI-Defense: Defending Manipulation Attacks from Generative Engine Optimization [[Paper](https://arxiv.org/abs/2605.21948)]
 
 - [2026-05-13] EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents [[Paper](https://arxiv.org/abs/2605.12887)]
 
@@ -71,6 +55,8 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [2026-02-12] SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization [[Paper](https://arxiv.org/abs/2602.12187)]
 
 - [2026-02-03] Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth [[Paper](https://arxiv.org/abs/2602.02961)]
+
+- [2026-02-03] Controlling Output Rankings in Generative Engines for LLM-based Search [[Paper](https://arxiv.org/abs/2602.03608)]
 
 - [2026-01-23] IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization [[Paper](https://arxiv.org/abs/2601.13938)]
 
@@ -125,6 +111,12 @@ GEO studies how content, evidence, products, webpages, and agents become visible
 - [2024-04-??] Manipulating Large Language Models to Increase Product Visibility [[Paper](https://arxiv.org/pdf/2404.07981)]
 
 - [2024-02-??] What Evidence Do Language Models Find Convincing? [[Paper](https://arxiv.org/html/2402.11782v1)]
+
+---
+
+## 2023 Papers
+
+- [2023-11-16] GEO: Generative Engine Optimization [[Paper](https://arxiv.org/abs/2311.09735)]
 
 ---
 
